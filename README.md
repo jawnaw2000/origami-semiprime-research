@@ -1,6 +1,7 @@
 # origami-semiprime-research
 # Origami Lattice Folding for Semiprime Factoring
 
+
 ## Overview
 
 This project explores whether geometric transformations inspired by origami folding can improve the detection of factor-related structures in lattices used for semiprime factorization.
